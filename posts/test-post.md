@@ -1,7 +1,7 @@
 ---
-youtube_url: https://youtube.com/...
+youtube_url: https://www.youtube.com/watch?v=-O1ds-kPUZg
 title: Custom post title (document title will translate to slug for post)
-date: "02-10-2026"
+date: 02-10-2026
 ---
 # Post Headings
 And content for a test post, just to get fetching working
