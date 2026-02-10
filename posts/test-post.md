@@ -1,5 +1,5 @@
 ---
-youtube_url: https://www.youtube.com/watch?v=-O1ds-kPUZg
+youtube_url: https://www.youtube.com/embed/-O1ds-kPUZg?si=yn1LBtMMY9lKVUuP
 title: Custom post title (document title will translate to slug for post)
 date: 02-10-2026
 ---
