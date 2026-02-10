@@ -1,5 +1,5 @@
 ---
-youtube_url: https://www.youtube.com/embed/<VIDEO_ID>
+youtube_url: https://www.youtube.com/embed/-O1ds-kPUZg?si=yJZvMBPEalE7k8WY
 title: Custom post title (document title will translate to slug for post)
 date: "{{date:MM-DD-YYYY}}"
 ---
