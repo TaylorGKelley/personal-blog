@@ -5,4 +5,4 @@ date: "02-10-2026"
 ---
 # Post Headings
 And content for a test post, just to get fetching working
-![is this some alt text?](content/images/{43DAECBD-188B-406F-B88C-61C6D04AEE9A}.png)
+![is this some alt text?](content/images/test-post-image.png)
