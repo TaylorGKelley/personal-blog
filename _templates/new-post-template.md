@@ -7,3 +7,4 @@ date: "{{date:MM-DD-YYYY}}"
 And content...
 > To embed a youtube video, click Share > Embed and copy the url that's in the src="...", then paste it in the youtube_url property
 
+
