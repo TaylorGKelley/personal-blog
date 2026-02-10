@@ -1,1 +1,7 @@
-{}
+{
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "content/images",
+  "alwaysUpdateLinks": true
+}
